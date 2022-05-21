@@ -1,2 +1,2 @@
 this is the first file to practise git.
-a=25
+a=22
